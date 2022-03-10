@@ -103,7 +103,7 @@ _conclusion_
 
 ## next steps
 
-From an art project visualizing the human genome subsequence frequencies, it's clear that there are more dominate larger subsequences.  
+From an art project visualizing the human genome subsequence frequencies, it's clear that there are more dominant larger subsequences.  
 
 It may be possible to build a zstd dictionary using this subsequence frequency analysis datastructure.  
 
